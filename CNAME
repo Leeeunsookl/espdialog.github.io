@@ -1,4 +1,1 @@
-echo "espdialog.net" > CNAME
-git add CNAME
-git commit -m "Add CNAME for custom domain"
-git push origin main
+espdialog.net
